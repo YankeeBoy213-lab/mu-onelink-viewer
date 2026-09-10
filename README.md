@@ -68,7 +68,7 @@ mu-onelink-viewer/
 │   ├── components/       # React components
 │   ├── hooks/            # Custom React hooks
 │   ├── services/         # API client
-│   └── types/            # TypeScript types
+│   └─��� types/            # TypeScript types
 ├── docker-compose.yml
 └── docs/                 # API & system documentation
 ```
